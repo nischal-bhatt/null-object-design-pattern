@@ -1,0 +1,1 @@
+# null-object-design-pattern
